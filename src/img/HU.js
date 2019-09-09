@@ -1,0 +1,1 @@
+export const HU ="https://blackbirdradio.ru/assets/cache/Pic/user/images/news/July2017/hollywood-undead-anonsirovali-novyj-albom-i-vypustili-klip.jpg/709d74b6731c9e184b0cf046b9a89dcd.jpg";
